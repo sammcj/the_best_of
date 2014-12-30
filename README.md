@@ -16,12 +16,9 @@
 
 * Sublime Text - http://www.sublimetext.com/3
 * Homebrew - http://brew.sh
-* iTerm - http://iterm2.com
 * DropSync - http://mudflatsoftware.com
 * Beets - http://beets.radbox.org
 * Textual - http://www.codeux.com/textual
-* Gitlab - http://gitlab.org
-* Dash - http://kapeli.com/dash
 * XLD - http://tmkk.undo.jp/xld/index_e.html
 * Code Academy - http://www.codecademy.com
 * Exercism.io - http://exercism.io
@@ -45,6 +42,32 @@
 * Bandcamp - https://itunes.apple.com/au/app/bandcamp/id706408639?mt=8
 * Hype Machine - https://itunes.apple.com/au/app/hype-machine/id414315986?mt=8
 * Nuzzel (Only got onto this today) - https://itunes.apple.com/au/app/nuzzel-news-from-your-friends/id692285770?mt=8
+
+# Software / SysAdmin or DevOps Specific:
+
+* Gitlab - http://gitlab.org
+* Gitlab-CI - https://about.gitlab.com/gitlab-ci
+* Dash - http://kapeli.com/dash
+* PostgreSQL (Makes my list every year & just keeps getting better) - http://www.postgresql.org
+* PGBadger - http://dalibo.github.io/pgbadger
+* Docker - https://www.docker.com
+* Consul - https://consul.io
+* Puppet (I couldn't do my job as well without it) - http://puppetlabs.com
+* iTerm - http://iterm2.com
+* Nginx - http://nginx.org
+* Htop - http://hisham.hm/htop
+* Bonnie++ - http://linux.die.net/man/8/bonnie++
+* Openfire - https://www.igniterealtime.org/projects/openfire
+* Hiera-Eyaml - https://github.com/TomPoulton/hiera-eyaml
+* Rubinius - http://rubini.us
+* Puma - http://puma.io
+* XenServer - http://xenserver.org
+* ElasticSearch - www.elasticsearch.org
+* Logstash - http://logstash.net
+* FPM - https://github.com/jordansissel/fpm
+* PFsense - https://www.pfsense.org
+* Debian Jessie (Not quite released but the next great version of the best linux Distro IMO) - https://www.debian.org/releases/jessie
+* Check_MK Multisite - https://mathias-kettner.de/checkmk_multisite.html
 
 # Websites:
 

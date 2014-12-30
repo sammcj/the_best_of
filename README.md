@@ -69,6 +69,7 @@
 * Debian Jessie (Not quite released but the next great version of the best linux Distro IMO) - https://www.debian.org/releases/jessie
 * Check_MK Multisite - https://mathias-kettner.de/checkmk_multisite.html
 * PWSafe - https://itunes.apple.com/au/app/pwsafe-password-safe-compatible/id520993579?mt=12
+* Supervisord - http://supervisord.org
 
 # Websites:
 
@@ -86,6 +87,7 @@
 * iPhone 6+ (because its bigger than bigger, or something) - https://www.apple.com/iphone-6
 * CuBox - http://www.solid-run.com/product/cubox-i4pro
 * Parani SD1000 Bluetooth Serial Adapter - http://www.senaindustrial.com/products/industrial_bluetooth/sd1000.php
+* SanDisk Extreme Pro 480GB SSD - http://www.newegg.com/Product/Product.aspx?Item=N82E16820171999
 
 # Other / Non-tech:
 
@@ -96,3 +98,10 @@
 * Bellroy Wallets - http://bellroy.com
 * Ink Shoes - http://www.inkshoes.it
 * Kindle Paperwhite - http://www.amazon.com.au/gp/feature.html?docId=3077740006
+
+# Books:
+
+* The Phoenix Project (Reread this year for the 3rd time) - http://itrevolution.com/books/phoenix-project-devops-book
+* Surely You're Joking Mr Feynman! - https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_
+* The Dark Tower Series - https://www.goodreads.com/book/show/43615.The_Gunslinger
+* Snow Crash - https://www.goodreads.com/book/show/830.Snow_Crash

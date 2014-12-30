@@ -68,10 +68,11 @@
 * PFsense - https://www.pfsense.org
 * Debian Jessie (Not quite released but the next great version of the best linux Distro IMO) - https://www.debian.org/releases/jessie
 * Check_MK Multisite - https://mathias-kettner.de/checkmk_multisite.html
+* PWSafe - https://itunes.apple.com/au/app/pwsafe-password-safe-compatible/id520993579?mt=12
 
 # Websites:
 
-* Last.fm - http://www.last.fm
+* Last.fm - http://www.last.fm/user/sammcj2000
 * Feedly - https://feedly.com
 * HackerNews - https://news.ycombinator.com/news
 * Lucidchart - http://lucidchart.com/
@@ -83,3 +84,11 @@
 * Logitech Performance MX - http://www.logitech.com/en-au/product/performance-mouse-mx
 * 15'' Macbook Pro Retina - http://www.apple.com/au/macbook-pro
 * iPhone 6+ (because its bigger than bigger, or something) - https://www.apple.com/iphone-6
+* CuBox - http://www.solid-run.com/product/cubox-i4pro
+
+# Other / Non-tech:
+
+* All Day Socks - http://alldaysocks.com
+* Sennheiser Amperior On-Ear Headphones - http://www.head-fi.org/products/sennheiser-amperior-on-ear-headphones
+* Benchmark DAC1 HDR - http://benchmarkmedia.com/products/benchmark-dac1-hdr-digital-to-analog-converter
+* Bellroy Wallets - http://bellroy.com

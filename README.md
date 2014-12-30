@@ -85,10 +85,14 @@
 * 15'' Macbook Pro Retina - http://www.apple.com/au/macbook-pro
 * iPhone 6+ (because its bigger than bigger, or something) - https://www.apple.com/iphone-6
 * CuBox - http://www.solid-run.com/product/cubox-i4pro
+* Parani SD1000 Bluetooth Serial Adapter - http://www.senaindustrial.com/products/industrial_bluetooth/sd1000.php
 
 # Other / Non-tech:
 
 * All Day Socks - http://alldaysocks.com
 * Sennheiser Amperior On-Ear Headphones - http://www.head-fi.org/products/sennheiser-amperior-on-ear-headphones
+* O2 + ODAC - http://www.jdslabs.com/products/48/o2-odac-combo
 * Benchmark DAC1 HDR - http://benchmarkmedia.com/products/benchmark-dac1-hdr-digital-to-analog-converter
 * Bellroy Wallets - http://bellroy.com
+* Ink Shoes - http://www.inkshoes.it
+* Kindle Paperwhite - http://www.amazon.com.au/gp/feature.html?docId=3077740006

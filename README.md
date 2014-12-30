@@ -1,6 +1,6 @@
 # The Best Of - 2014 Edition
 
-*At the end of every year I do a bit of summary of the best applications, hardware & websites I've enjoyed & depended on throughout the year (and often for some time before).*
+*At the end of every year I note down a summary of the best applications, hardware & websites I've enjoyed & depended on throughout the year (and often for some time before).*
 
 # Software / General Use:
 

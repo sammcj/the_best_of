@@ -42,6 +42,7 @@
 * Bandcamp - https://itunes.apple.com/au/app/bandcamp/id706408639?mt=8
 * Hype Machine - https://itunes.apple.com/au/app/hype-machine/id414315986?mt=8
 * Nuzzel (Only got onto this today) - https://itunes.apple.com/au/app/nuzzel-news-from-your-friends/id692285770?mt=8
+* Alien Blue - http://www.reddit.com/r/alienblue
 
 # Software / SysAdmin or DevOps Specific:
 
@@ -98,6 +99,7 @@
 * Bellroy Wallets - http://bellroy.com
 * Ink Shoes - http://www.inkshoes.it
 * Kindle Paperwhite - http://www.amazon.com.au/gp/feature.html?docId=3077740006
+* Nerf Jolt - http://nerf.wikia.com/wiki/Jolt_EX-1
 
 # Books:
 

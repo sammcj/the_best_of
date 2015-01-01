@@ -2,6 +2,8 @@
 
 *At the end of every year I note down a summary of the best applications, hardware & websites I've enjoyed & depended on throughout the year (and often for some time before).*
 
+Permalink: http://sammcj.github.io/the_best_of
+
 # Software / General Use:
 
 * Fastmail - https://www.fastmail.com
